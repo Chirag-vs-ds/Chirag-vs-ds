@@ -59,20 +59,7 @@
 - Designed to support **smart traffic & urban planning use-cases**
 - Deployed using **Streamlit** for interactive prediction
 
-### 🔹 AI-Based Women Safety / Risk Prediction System
-- Predicts **potential risk zones** using historical & contextual data
-- Focus on **real-life safety applications**
-- ML logic designed to be scalable for real-time systems
 
-### 🔹 Hybrid Rule-Based + Machine Learning System
-- Handles **insufficient or imbalanced data**
-- Automatically switches to **rule-based logic** when ML is unreliable
-- Demonstrates **practical ML decision-making**, not just algorithms
-
-### 🔹 CGPA Calculator (Java Project)
-- Academic utility application
-- Clean logic and structured implementation
-- Demonstrates strong **problem-solving fundamentals**
 
 👉 *My best repositories are pinned below 👇*
 
